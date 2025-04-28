@@ -33,11 +33,4 @@ El objetivo principal es reforzar conocimientos básicos de desarrollo web y pra
 - Practicar trabajo colaborativo en GitHub.
 - Crear una landing page funcional, limpia y adaptable a diferentes dispositivos.
 
-## Cómo contribuir
-
-1. Haz un fork del repositorio.
-2. Crea una rama:
-   ```bash
-   git checkout -b feature/nombre-de-la-seccion
-
 
